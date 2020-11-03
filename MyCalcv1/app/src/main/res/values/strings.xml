@@ -1,0 +1,9 @@
+<resources>
+    <!-- -->
+    <string name="app_name">MyCalcv1</string>
+    <string name="lbl_n1">Number one</string>
+    <string name="lbl_n2">Number two</string>
+    <string name="hnt_n1">123</string>
+    <string name="hnt_n2">110</string>
+    <string name="btn_add">Add</string>
+</resources>
